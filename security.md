@@ -182,4 +182,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*GTA 5 · Updated 2026-11-26 · Shared under the MIT License*
+*GTA 5 · Updated 2026-11-27 · Shared under the MIT License*
